@@ -13,7 +13,7 @@ from typing import Optional, Tuple  # <-- ใช้แทน union type แบ�
 # ==========================
 # Settings
 # ==========================
-CSV_PATH = "report/rf_report.csv"   # fallback ถ้าไม่มี history
+CSV_PATH = "rf_report.csv"   # fallback ถ้าไม่มี history
 HISTORY_DIR = "report/history"
 COLORS = {"PASS": "#28a745", "FAIL": "#dc3545"}  # เขียว/แดง
 
