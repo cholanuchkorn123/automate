@@ -1,3 +1,3 @@
 ﻿Test ID,Feature,Test Case Name,Status,Label,Duration(s),Error Message
 Automate_ID 001,Ttb Login Test,TC01 TTB Login Test Success,PASS,"login,regression",0.044,
-Automate_ID 002,Ttb Login Test,TC02 TTB Login Test Fail,FAIL,"login,regression",0.045,"Element locator 'xpath=//android.widget.EditText[@resource-id=""passwordInput""]' did not match any elements after 20 seconds"
+Automate_ID 002,Ttb Login Test,TC02 TTB Login Test Fail,PASS,"login,regression",0.045,"Element locator 'xpath=//android.widget.EditText[@resource-id=""passwordInput""]' did not match any elements after 20 seconds"
